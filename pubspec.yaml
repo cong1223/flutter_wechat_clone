@@ -1,0 +1,73 @@
+name: flutter_wechat_clone
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_webview_plugin: "^0.2.1+2"
+  date_format: "^1.0.4"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    #底部导航栏图标
+    - images/loading.jpg
+    - images/contacts.png
+    - images/contacts_pressed.png
+    - images/find.png
+    - images/find_pressed.png
+    - images/message.png
+    - images/message_pressed.png
+    - images/mine.png
+    - images/mine_pressed.png
+
+    #菜单选项图标
+    - images/menu_group.png
+    - images/menu_add.png
+    - images/menu_scan.png
+    - images/menu_payment.png
+    - images/menu_help.png
+
+    #通讯录图标
+    - images/add-friends.png
+    - images/public.png
+    - images/label.png
+    - images/group-chat.png
+
+
+    #发现
+    - images/friend.png
+    - images/fujin.png
+    - images/gouwu.png
+    - images/kanyikan.png
+    - images/piaoliupin.png
+    - images/xiaochengxu.png
+    - images/yaoyiyao.png
+    - images/youxi.png
+    - images/souyisou.png
+    - images/saoyisao.png
+
+
+    #个人中心
+    - images/album.png
+    - images/card.png
+    - images/wallet.png
+    - images/expression.png
+    - images/setting.png
+    - images/collect.png
+    - images/avatar.jpg
+    - images/code.png
+
+
