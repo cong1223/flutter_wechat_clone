@@ -1,4 +1,5 @@
 # flutter_wechat_clone
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+this is a flutter project
+>>>>>>> 8631cc6eba028e3cbd8c3f2da753fb5b31bca8b3
